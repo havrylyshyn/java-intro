@@ -70,4 +70,8 @@ public class Strings {
     public static void trimString(String string) {
         System.out.println(string.trim());
     }
+
+    public static void asd() {
+
+    }
 }
