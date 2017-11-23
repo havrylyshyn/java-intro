@@ -1,3 +1,6 @@
+import lesson4.AttackImpl;
+import lesson4.Bee;
+
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World!");
@@ -27,6 +30,7 @@ public class HelloWorld {
         System.out.println(person1.equals(person2));
         System.out.println(person1.equals(person3));
         System.out.println(person1.hashCode());
+
     }
 
 }
